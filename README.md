@@ -6,7 +6,7 @@ A Python-based automation project leveraging Selenium and Google Cloud Console t
 ### **Automated Gym Reservation System**  
 
 #### **Overview**  
-- **Date:** March 2025  
+- **Date:** Jan 2022  
 - **Programming Language:** Python  
 - **Tools & Technologies:** Selenium, Google Cloud Console  
 
