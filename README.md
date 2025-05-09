@@ -23,6 +23,4 @@ Developed an automated system utilizing Python and Google Cloud Console to strea
 - Selenium  
 - Google Cloud Console  
 
-#### **Installation**  
-To set up the project, clone the repository:  
-git clone https://github.com/Vedurumudi-Aditya/gym-reservation-bot.git
+
